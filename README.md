@@ -7,7 +7,7 @@
 ```
 git clone https://github.com/beheta/Flatercula.git
 cd Flatercula
-bash install.sh
+sudo bash install.sh
 ```
 
 Have fun!
