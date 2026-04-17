@@ -1,0 +1,22 @@
+[project]
+name = "flatercula"
+version = "0.1.0"
+description = "Natural‑language → shell‑command AI UI agent"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [{name = "Your Name", email = "you@example.com"}]
+dependencies = [
+    "requests",
+    "sounddevice",
+    "soundfile",
+    "whisper",
+    "numpy",
+    "psutil",
+    "pyqt6",
+]
+
+[project.scripts]
+flatercula = "flatercula.aiui_cli:main"
+flatercula-gui = "flatercula.aiui_gui:main"
+

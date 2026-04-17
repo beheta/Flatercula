@@ -1,0 +1,9 @@
+requests
+sounddevice
+soundfile
+whisper
+numpy
+psutil
+pyqt5
+pyqt5-tools
+
