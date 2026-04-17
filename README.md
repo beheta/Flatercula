@@ -4,6 +4,8 @@
 
 # How to use
 
+run this commands:
+
 ```
 python -m venv flatercula
 . flatercula/bin/activate
