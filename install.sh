@@ -38,7 +38,7 @@ elif command -v dnf > /dev/null; then
 
 fi
 
-sudo pip3 install requests numpy PyQt5 psutil sounddevice soundfile whisper --break-system-packages.                                                              
+sudo pip3 install requests numpy PyQt5 psutil sounddevice soundfile whisper --break-system-packages                                                           
 
 echo "Pre‑loading Whisper base model..."
 sudo python3 -c "import whisper; whisper.load_model('base')"
