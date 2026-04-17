@@ -6,6 +6,8 @@
 
 run this commands:
 
+#Linux(Debian/Ubuntu)
+
 ```
 python -m venv flatercula
 . flatercula/bin/activate
