@@ -5,6 +5,8 @@
 # How to use
 
 ```
+python -m venv flatercula
+. flatercula/bin/activate
 git clone https://github.com/beheta/Flatercula.git
 cd Flatercula
 sudo bash install.sh
