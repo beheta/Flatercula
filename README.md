@@ -9,7 +9,7 @@ run this commands:
 #Linux(Debian/Ubuntu)
 
 ```
-python -m venv flatercula
+python3 -m venv flatercula
 . flatercula/bin/activate
 git clone https://github.com/beheta/Flatercula.git
 cd Flatercula
